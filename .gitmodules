@@ -1,0 +1,6 @@
+[submodule "SS_Sun"]
+	path = SS_Sun
+	url = https://github.com/lT-Tl/SS_Sun
+[submodule "SS_Earth"]
+	path = SS_Earth
+	url = https://github.com/lT-Tl/SS_Earth
